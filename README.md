@@ -120,7 +120,6 @@ END
           1203:34               c4:1207                              
 
 #### Manual Calculations
-![WhatsApp Image 2025-09-14 at 15 02 20_1b7b337b](https://github.com/user-attachments/assets/ec835f23-bd9a-4f0e-9e19-20316b868829)
 
 
 ---
@@ -178,7 +177,6 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-14 at 15 02 21_59af4681](https://github.com/user-attachments/assets/ced775ae-cbbe-46fc-9e12-f859557ed6f4)
 
 ---
 
@@ -230,7 +228,6 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-14 at 15 02 20_f440e61e](https://github.com/user-attachments/assets/6782cc37-b0dc-44f1-910e-f47c619f56ee)
 
 
 ---
