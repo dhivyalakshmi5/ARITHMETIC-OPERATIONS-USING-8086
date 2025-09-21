@@ -242,7 +242,7 @@ END
 <img width="643" height="413" alt="Screenshot 2025-09-14 145031" src="https://github.com/user-attachments/assets/ed0e11db-7015-43e1-8236-3c02a69ca927" />
 
 
-![WhatsApp Image 2025-09-21 at 21 34 47_b303bdff](https://github.com/user-attachments/assets/614ab45b-fbba-4a96-94df-8996a957e0ab)
+<img width="1246" height="836" alt="image" src="https://github.com/user-attachments/assets/cb95d0ec-8fea-4598-b127-6c29c4631f20" />
 
 
 ## RESULT
