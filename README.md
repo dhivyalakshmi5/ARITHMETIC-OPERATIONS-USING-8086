@@ -64,7 +64,6 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-14 at 15 02 20_f99d0c25](https://github.com/user-attachments/assets/bfe35c6a-1c69-4154-96cc-8d1866732057)
 
 
 <img width="645" height="445" alt="Screenshot 2025-09-01 202246" src="https://github.com/user-attachments/assets/c328d11d-0f7c-485e-8445-61c372490910" />
@@ -121,6 +120,7 @@ END
           1203:34               c4:1207                              
 
 #### Manual Calculations
+![WhatsApp Image 2025-09-14 at 15 02 20_1b7b337b](https://github.com/user-attachments/assets/ec835f23-bd9a-4f0e-9e19-20316b868829)
 
 
 ---
